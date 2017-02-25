@@ -1,0 +1,1 @@
+This package contains Blaze configuration UI templates for LinkedIn OAuth.
