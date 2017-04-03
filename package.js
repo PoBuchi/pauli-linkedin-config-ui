@@ -1,6 +1,6 @@
 Package.describe({
   name: 'pauli:linkedin-config-ui',
-  version: '1.0.0',
+  version: '1.1.0',
   // Brief, one-line summary of the package.
   summary: 'Blaze configuration templates for LinkedIn OAuth.',
   // URL to the Git repository containing the source code for this package.
