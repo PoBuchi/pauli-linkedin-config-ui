@@ -1,8 +1,8 @@
-Template.configureLoginServiceDialogForLinkedin.siteUrl = function () {
+Template.configureLoginServiceDialogForLinkedIn.siteUrl = function () {
   return Meteor.absoluteUrl();
 };
 
-Template.configureLoginServiceDialogForLinkedin.fields = function () {
+Template.configureLoginServiceDialogForLinkedIn.fields = function () {
   return [
     {property: 'clientId', label: 'API Key'},
     {property: 'secret', label: 'Secret Key'}
