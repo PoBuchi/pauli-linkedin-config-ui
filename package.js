@@ -1,6 +1,6 @@
 Package.describe({
   name: 'pauli:linkedin-config-ui',
-  version: '4.2.0',
+  version: '4.3.0',
   summary:
     'Blaze configuration templates for LinkedIn OAuth, use with Meteor 1.6.1 & up',
   git:
